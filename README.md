@@ -11,8 +11,10 @@ Main classes:
 2) getWeatherInfo.swift : receive weather datas from server
 
 3) CityWeatherInfo.swift : set and get weather datas
+
                         - City Name
                         - City Temperature
                         - Weather Time
                         - Weather Icon
+                        
 4) parisWeather.swift & brestWeather.swift : show weather infos in detail, not done.
